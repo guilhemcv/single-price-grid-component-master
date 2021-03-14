@@ -29,13 +29,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/Capture d’écran 2021-03-14 à 21.16.21.png)
+
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
