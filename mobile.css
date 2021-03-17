@@ -21,8 +21,6 @@
 #top {
     height: 250px;
     width: auto;
-    padding-left: auto;
-    padding-right: auto;
     border-radius: 0px;
     text-align: center;
 }
@@ -36,7 +34,7 @@
 #grid {
     display: flex;
     flex-direction: column;
-    width: 100%;
+    width: auto;
 }
 
 .left {
